@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clase 1</string>
+    <string name="title_activity_actividadsec">Actividadsec</string>
+    <string name="invertir_nombre">Invertir Nombre</string>
+</resources>
